@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ML projects**
 
-- 🌱 I’m currently learning **SQLITE and AWS**
+- 🌱 I’m currently learning AI Agents
 
 - 👨‍💻 All of my projects are available at [https://github.com/TeefAlfadhli](https://github.com/TeefAlfadhli)
 
