@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TeefAlfadhli](https://github.com/TeefAlfadhli)
 
-- 📝 I regularly write articles on [https://medium.com/@teefalfadhli9](https://medium.com/@teefalfadhli9)
+- 📝 I sometimes write articles on [https://medium.com/@teefalfadhli9](https://medium.com/@teefalfadhli9)
 
-- 💬 Ask me about **AI/ML, Web, apps**
+- 💬 Ask me about **AI/ML**
 
 - 📫 How to reach me **teefalfadhli@hotmail.com**
 
